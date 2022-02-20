@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //카카오톡 출석 봇 
 
 //스터디출석코드
@@ -28,3 +29,14 @@
 //간단한 IT 지식을 배워가요! (자바위주)
 
 //이스터에그 한스푼
+=======
+
+public class MentoringBot {
+
+	public static void main(String[] args) {
+		System.out.println("test");
+
+	}
+
+}
+>>>>>>> 3bf46cfdee2814c777b27467a6ff155351b48c8a
